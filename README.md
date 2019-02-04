@@ -46,7 +46,7 @@ In order to use SWD debugging you need to connect:
 
 To update the interface firmware with the latest version:
 
-1. Download the latest interface firmware: [V0.02](./firmware/v0.02/DebuggerInterfaceV0.02.bin)
+1. Download the latest interface firmware from the firmware directory, above.
 2. Press and hold the button on the Debugger.
 3. Plug into an USB port of your PC.
 4. It will show up a `MAINTENANCE` drive/volume.
