@@ -10,7 +10,7 @@ It also provides a USB to TTL serial port. This requires no device drivers on Ma
 
 Comes with one JTAG ribbon cable.
 
-For more information about debugging see the [JTAG FAQ](/support/particle-tools-faq/jtag/). Future version of Particle Workbench will support the Particle Debugger as well.
+For more information about debugging see the [JTAG FAQ](https://docs.particle.io/support/particle-tools-faq/jtag/). Future version of Particle Workbench will support the Particle Debugger as well.
 
 ### Debugging mesh devices
 
