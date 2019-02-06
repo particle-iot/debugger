@@ -41,6 +41,17 @@ In order to use SWD debugging you need to connect:
 - D6: SWCLK
 - GND
 
+## Connector
+
+If you want to include the 5x2 micro JTAG connector on your own board a connector compatible with this one works:
+ 
+- Connector Header Surface Mount 10 position 5x2 0.050" (1.27mm)
+- [Samtec FTSH-105-01-F-DV-K](https://www.digikey.com/product-detail/en/FTSH-105-01-F-DV-K/SAM8796-ND/2649974)
+
+In the connector directory is:
+
+- JTAGConn.lbr, an Eagle CAD library file containing this connector footprint, symbol, and device. The device has all of the pins labeled for easy use.
+- JTAGTest1.brd and .sch. This is just a simple breakout and is what I used to test the footprint. It works.
 
 ## Firmware Update
 
